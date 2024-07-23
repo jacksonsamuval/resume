@@ -1,2 +1,0 @@
-user name :jack
-Pass : 1234567
